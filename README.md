@@ -12,6 +12,6 @@
 
 ## 参考資料リスト
 ```
-https://networkx.github.io/documentation/networkx-1.10/tutorial/index.html
+https://networkx.github.io/documentation/stable/tutorial.html
 -> NetworkXのチュートリアル
 ```
